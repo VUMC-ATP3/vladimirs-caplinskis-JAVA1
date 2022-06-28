@@ -104,7 +104,7 @@ public class HomeWorkTwo {
         //5.uzdevums
 
 
-        public static void printBusinessCard( ) {
+        public static void printBusinessCard() {
             System.out.println("Vizītkarte");
             System.out.println("******************");
             System.out.println("Vārds: Vladimirs");
@@ -134,7 +134,7 @@ public class HomeWorkTwo {
 
 
                 //7.uzdevums
-                int sum = sumOfTwoNumbers (6, 8);
+                int sum = sumOfTwoNumbers(6, 8);
                 System.out.println(sum);
 
 
@@ -167,6 +167,3 @@ public class HomeWorkTwo {
 
 
  }
-
-    private static void sumOfTwoNumbers() {
-    }
