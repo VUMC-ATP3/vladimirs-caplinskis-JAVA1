@@ -101,10 +101,11 @@ public class HomeWorkTwo {
         } else if (color.equals("Luksafors nedarbojas"));
 
 
+
         //5.uzdevums
 
 
-        public static void printBusinessCard( ) {
+         public static void printBusinessCard( ) {
             System.out.println("Vizītkarte");
             System.out.println("******************");
             System.out.println("Vārds: Vladimirs");
